@@ -12,7 +12,7 @@ This project implements a RESTful API for managing events with additional featur
 1. Clone the repo
 2. Navigate to the project directory
 3. Install dependencies from requirements.txt
-4. Run the application: run the file python main.py
+4. Run the application: run the file main.py
 
 ## API Endpoints
 Schedule a new event:
